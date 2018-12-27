@@ -23,7 +23,7 @@ Looking at main plots (TREAT) within subplot levels (FORMMETHOD) averaged over a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After analyzing the model it appears that there isn’t a simple description of the data due to interaction with the main plot material treatment. It is interesting that when comparing the means within the untreated main plots group, that both the formation methods and antibiotics had significantly different levels within themselves. It’s also interesting that main plot means being compared with the subplot and sub-subplot levels show that the treated materials always have the lower absorption times when comparisons are significant. Comparing means for the treatment main plots within formation methods found that only formation method `H` resulted in different absorption times between treated and untreated materials averaged over antibiotics. Also, comparing main plot treatments within antibiotic combinations averaged over formation methods showed that antibiotic `B` was the only sub-subplot treatment to have significant differences
 
 ### Appendix
-#### **_Table A1_**
+#### **_Plot A1_**
 #### Interaction Plots
 #### **_Plot A2_**
 #### Interaction Plots
