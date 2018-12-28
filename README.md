@@ -172,9 +172,179 @@
 <td style="border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt"></td>
 </tr>
 </table>
+
 #### **_Table A6_**
 
+<table>
+<tr><th colspan="4" style="border:solid windowtext 1.0pt">Treat=Treated</th></tr>
+<tr><th colspan="4" style="border:solid windowtext 1.0pt">Means with the same letter are not significantly different.</th></tr>
+<tr>
+<th style="border:solid windowtext 1.0pt">t Grouping</th>
+<th style="border:solid windowtext 1.0pt">Mean</th>
+<th style="border:solid windowtext 1.0pt">N</th>
+<th style="border:solid windowtext 1.0pt">Form Method</th>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt">A</th>
+<td>18.9</td>
+<td>12</td>
+<td style="border-right:solid windowtext 1.0pt">D</td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt">A</th>
+<td></td>
+<td></td>
+<td style="border-right:solid windowtext 1.0pt"></td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt">A</th>
+<td>17.7333</td>
+<td>12</td>
+<td style="border-right:solid windowtext 1.0pt">G</td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt">A</th>
+<td></td>
+<td></td>
+<td style="border-right:solid windowtext 1.0pt"></td>
+</tr>
+<tr>
+<th style="border:solid windowtext 1.0pt;border-top:none">A</th>
+<td style="border-bottom:solid windowtext 1.0pt">16.7667</td>
+<td style="border-bottom:solid windowtext 1.0pt">12</td>
+<td style="border-right:solid windowtext 1.0pt;border-bottom:solid windowtext 1.0pt">H</td>
+</tr>
+</table>
+
+<table>
+<tr><th colspan="5" style="border:solid windowtext 1.0pt">Treat=Untreated</th></tr>
+<tr><th colspan="5" style="border:solid windowtext 1.0pt">Means with the same letter are not significantly different.</th></tr>
+<tr>
+<th style="border:solid windowtext 1.0pt" colspan="2">t Grouping</th>
+<th style="border:solid windowtext 1.0pt">Mean</th>
+<th style="border:solid windowtext 1.0pt">N</th>
+<th style="border:solid windowtext 1.0pt">Form Method</th>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt"></th>
+<th style="border-right:solid windowtext 1.0pt">A</th>
+<td>24.35</td>
+<td>12</td>
+<td style="border-right:solid windowtext 1.0pt">H</td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt"></th>
+<th style="border-right:solid windowtext 1.0pt">A</th>
+<td></td>
+<td></td>
+<td style="border-right:solid windowtext 1.0pt"></td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt">B</th>
+<th style="border-right:solid windowtext 1.0pt">A</th>
+<td>22.55</td>
+<td>12</td>
+<td style="border-right:solid windowtext 1.0pt">D</td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt">B</th>
+<th style="border-right:solid windowtext 1.0pt"></th>
+<td></td>
+<td></td>
+<td style="border-right:solid windowtext 1.0pt"></td>
+</tr>
+<tr>
+<th style="border:solid windowtext 1.0pt;border-top:none;border-right:none">B</th>
+<th style="border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt"></th>
+<td style="border-bottom:solid windowtext 1.0pt">19.37</td>
+<td style="border-bottom:solid windowtext 1.0pt">12</td>
+<td style="border-right:solid windowtext 1.0pt;border-bottom:solid windowtext 1.0pt">G</td>
+</tr>
+</table>
+
 #### **_Table A7_**
+
+<table>
+<tr><th colspan="4" style="border:solid windowtext 1.0pt">Treat=Treated</th></tr>
+<tr><th colspan="4" style="border:solid windowtext 1.0pt">Means with the same letter are not significantly different.</th></tr>
+<tr>
+<th style="border:solid windowtext 1.0pt">t Grouping</th>
+<th style="border:solid windowtext 1.0pt">Mean</th>
+<th style="border:solid windowtext 1.0pt">N</th>
+<th style="border:solid windowtext 1.0pt">Antibiotic</th>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt">A</th>
+<td>18.3167</td>
+<td>12</td>
+<td style="border-right:solid windowtext 1.0pt">AB</td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt">A</th>
+<td></td>
+<td></td>
+<td style="border-right:solid windowtext 1.0pt"></td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt">A</th>
+<td>17.6333</td>
+<td>12</td>
+<td style="border-right:solid windowtext 1.0pt">A</td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt">A</th>
+<td></td>
+<td></td>
+<td style="border-right:solid windowtext 1.0pt"></td>
+</tr>
+<tr>
+<th style="border:solid windowtext 1.0pt;border-top:none">A</th>
+<td style="border-bottom:solid windowtext 1.0pt">17.45</td>
+<td style="border-bottom:solid windowtext 1.0pt">12</td>
+<td style="border-right:solid windowtext 1.0pt;border-bottom:solid windowtext 1.0pt">B</td>
+</tr>
+</table>
+
+<table>
+<tr><th colspan="4" style="border:solid windowtext 1.0pt">Treat=Untreated</th></tr>
+<tr><th colspan="4" style="border:solid windowtext 1.0pt">Means with the same letter are not significantly different.</th></tr>
+<tr>
+<th style="border:solid windowtext 1.0pt">t Grouping</th>
+<th style="border:solid windowtext 1.0pt">Mean</th>
+<th style="border:solid windowtext 1.0pt">N</th>
+<th style="border:solid windowtext 1.0pt">Antibiotic</th>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt">A</th>
+<td>23.95</td>
+<td>12</td>
+<td style="border-right:solid windowtext 1.0pt">AB</td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt">A</th>
+<td></td>
+<td></td>
+<td style="border-right:solid windowtext 1.0pt"></td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt">A</th>
+<td>22.6</td>
+<td>12</td>
+<td style="border-right:solid windowtext 1.0pt">A</td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt">&nbsp</th>
+<td></td>
+<td></td>
+<td style="border-right:solid windowtext 1.0pt"></td>
+</tr>
+<tr>
+<th style="border:solid windowtext 1.0pt;border-top:none">B</th>
+<td style="border-bottom:solid windowtext 1.0pt">19.717</td>
+<td style="border-bottom:solid windowtext 1.0pt">12</td>
+<td style="border-right:solid windowtext 1.0pt;border-bottom:solid windowtext 1.0pt">B</td>
+</tr>
+</table>
 
 #### **_Table A8_**
 
