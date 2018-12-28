@@ -39,7 +39,113 @@
 #### **_Plot A4_**
 ![Studentized_Residuals](StuResid.png)
 #### **_Table A5_**
-#### ANOVA For Full Model
+<table>
+<tr>
+<th colspan="6" style="border:solid windowtext 1.0pt">ANOVA for Full Model</th>
+</tr>
+<tr>
+<th style="border:solid windowtext 1.0pt"></th>
+<th style="border-bottom:solid windowtext 1.0pt">DF</th>
+<th style="border-bottom:solid windowtext 1.0pt">Sum Sq</th>
+<th style="border-bottom:solid windowtext 1.0pt">Mean Sq</th>
+<th style="border-bottom:solid windowtext 1.0pt">F Value</th>
+<th style="border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt">Pr(>F)</th>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt" align="left">Vendor</th>
+<td>3</td>
+<td>7.777778</td>
+<td>2.592593</td>
+<td></td>
+<td style="border-right:solid windowtext 1.0pt"></td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt" align="left">Treat</th>
+<td>1</td>
+<td>331.1022</td>
+<td>331.1022</td>
+<td>17.59</td>
+<td style="border-right:solid windowtext 1.0pt">0.0247</td>
+</tr>
+<tr>
+<th style="border:solid windowtext 1.0pt;border-top:none" align="left">Error(Treat)</th>
+<td style="border-bottom:solid windowtext 1.0pt">3</td>
+<td style="border-bottom:solid windowtext 1.0pt">56.47111</td>
+<td style="border-bottom:solid windowtext 1.0pt">18.8237</td>
+<td style="border-bottom:solid windowtext 1.0pt"></td>
+<td style="border-right:solid windowtext 1.0pt;border-bottom:solid windowtext 1.0pt"></td>
+</tr>
+<th style="border:solid windowtext 1.0pt;border-bottom:none" align="left">Form Method</th>
+<td>2</td>
+<td>70.33444</td>
+<td>35.16722</td>
+<td>3.784</td>
+<td style="border-right:solid windowtext 1.0pt">0.0532</td>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt" align="left">Treat*Form Method</th>
+<td>2</td>
+<td>109.8811</td>
+<td>54.94056</td>
+<td>5.912</td>
+<td style="border-right:solid windowtext 1.0pt">0.0163</td>
+</tr>
+<tr>
+<th style="border:solid windowtext 1.0pt;border-top:none" align="left">Error(Form Method)</th>
+<td style="border-bottom:solid windowtext 1.0pt">12</td>
+<td style="border-bottom:solid windowtext 1.0pt">111.5178</td>
+<td style="border-bottom:solid windowtext 1.0pt">9.293148</td>
+<td style="border-bottom:solid windowtext 1.0pt"></td>
+<td style="border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt"></td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt" align="left">Antibiotic</th>
+<td>2</td>
+<td>79.09778</td>
+<td>39.54889</td>
+<td>11.449</td>
+<td style="border-right:solid windowtext 1.0pt">0.000142</td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt" align="left">Treat*Antibiotic</th>
+<td>2</td>
+<td>38.13778</td>
+<td>19.06889</td>
+<td>5.52</td>
+<td style="border-right:solid windowtext 1.0pt">0.008108</td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt" align="left">Form Method*Antibiotic</th>
+<td>4</td>
+<td>12.19556</td>
+<td>3.048889</td>
+<td>0.883</td>
+<td style="border-right:solid windowtext 1.0pt">0.484053</td>
+</tr>
+<tr>
+<th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt" align="left">Treat*Form Method*Antibiotic</th>
+<td>4</td>
+<td>9.388889</td>
+<td>2.347222</td>
+<td>0.68</td>
+<td style="border-right:solid windowtext 1.0pt">0.610667</td>
+</tr>
+<tr>
+<th style="border:solid windowtext 1.0pt;border-top:none" align="left">Error(Antibiotic)</th>
+<td style="border-bottom:solid windowtext 1.0pt;border-right">36</td>
+<td style="border-bottom:solid windowtext 1.0pt;border-right">124.3533</td>
+<td style="border-bottom:solid windowtext 1.0pt;border-right">3.454259</td>
+<td style="border-bottom:solid windowtext 1.0pt;border-right"></td>
+<td style="border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt"></td>
+</tr>
+<tr>
+<th style="border:solid windowtext 1.0pt" align="left">Total</th>
+<td style="border-bottom:solid windowtext 1.0pt">71</td>
+<td style="border-bottom:solid windowtext 1.0pt">950.2578</td>
+<td style="border-bottom:solid windowtext 1.0pt"></td>
+<td style="border-bottom:solid windowtext 1.0pt"></td>
+<td style="border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt"></td>
+</tr>
+</table>
 #### **_Table A6_**
 
 #### **_Table A7_**
