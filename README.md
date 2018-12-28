@@ -108,6 +108,14 @@
 <td style="border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt"></td>
 </tr>
 <tr>
+  <th></th>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
 <th style="border-left:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt" align="left">Antibiotic</th>
 <td>2</td>
 <td>79.09778</td>
@@ -146,6 +154,14 @@
 <td style="border-bottom:solid windowtext 1.0pt;border-right">3.454259</td>
 <td style="border-bottom:solid windowtext 1.0pt;border-right"></td>
 <td style="border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt"></td>
+</tr>
+<tr>
+  <th></th>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
 <th style="border:solid windowtext 1.0pt" align="left">Total</th>
