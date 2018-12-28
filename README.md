@@ -31,16 +31,16 @@
 ### Appendix
 #### **_Plot A1_**
 #### Interaction Plots
-![Interaction_Plots]("InteractionPlots.png")
+![Interaction_Plots](InteractionPlots.png)
 #### **_Plot A2_**
 #### Interaction Plots
-![Residual_vs_Fitted]("ResidVsFitted.png")
+![Residual_vs_Fitted](ResidVsFitted.png)
 #### **_Plot A3_**
 #### Interaction Plots
-![Normality_Plot]("NormPlot.png")
+![Normality_Plot](NormPlot.png)
 #### **_Plot A4_**
 #### Interaction Plots
-![Studentized_Residuals]("StuResid.png")
+![Studentized_Residuals](StuResid.png)
 #### **_Table A5_**
 #### Interaction Plots
 #### **_Table A6_**
