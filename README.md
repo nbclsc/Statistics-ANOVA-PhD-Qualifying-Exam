@@ -1,4 +1,4 @@
-# ANOVA Split-Plot Design
+# Antibiotic Capsule ANOVA Split-Plot Design
 
 ## [Problem](http://math.unm.edu/sites/default/files/files/qual-exams/Edit%20Past%20Qualifying%20Exams%20Page%20Past%20Qualifying%20Exams%20-%20Statistics/UNM_Stat_Exam_Qual_takehome_201301.pdf):
 
